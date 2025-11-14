@@ -1,0 +1,4 @@
+# Default package list for docker pull oraclelinux:
+# Date: 2025-11-14
+# Size:  MiB
+# Artefacts json: https://github.com/oracle/container-images/blob/d5ecb8b13a55dfeaa7b60279ba07b139f6581a34/8/Dockerfile
