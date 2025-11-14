@@ -1,4 +1,4 @@
-# linux-docker pkg-list
+# linux-pkg-list
 Linux distributions - List of default packages installed in their docker images
 
 ## Debian family
