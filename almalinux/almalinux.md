@@ -30,9 +30,13 @@
 
 ### 8-minimal
 - **Architecture** : amd64
+- **Image**: [almalinux:8-minimal](https://github.com/AlmaLinux/container-images/blob/1bee999abd112c603a3044f96282a2c1b66cb57f/minimal/amd64/Dockerfile)
+- **Packages list** : [docker-almalinux-8-minimal.txt](docker-almalinux-8-minimal.txt)
 
 ### 8
 - **Architecture** : amd64
+- **Image**: [almalinux:8](https://github.com/AlmaLinux/container-images/blob/1bee999abd112c603a3044f96282a2c1b66cb57f/default/amd64/Dockerfile)
+- **Packages list** : [docker-almalinux-8.txt](docker-almalinux-8.txt)
 
 
 
