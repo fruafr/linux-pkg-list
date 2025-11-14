@@ -3,11 +3,12 @@ Linux distributions - List of default packages installed in their docker images
 
 ## Debian family
 - [debian](debian/debian.md): minimal and standard stable versions - 11,12,13
-- [ubuntu](ubuntu/ubuntu.md): supported LTS versions - 2404, 2204
+- [ubuntu](ubuntu/ubuntu.md): supported LTS versions - 2204 (2022), 2404 (2024)
 
 ## RedHat Family
 - [almalinux](almalinux/almalinux.md): minimal and standard versions - 8,9,10
-- [rockylinux](rockylinux/rockylinux.md): minimal and standard versions - 8,9,10
+- [rockylinux](rockylinux/rockylinux.md): minimal and standard versions - 8, 9, 10
+- [oraclelinux](oraclelinux/oraclelinux.md): slim and standard versions - 7, 8, 9, 10
 
 ## Others
 - [alpine](alpine/alpine.md): latest version: 3.22
