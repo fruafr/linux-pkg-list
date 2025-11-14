@@ -1,0 +1,6 @@
+# Default package list for docker pull debian:11
+# Date : 2025-11-14
+# Size :  MiB
+
+Name                    Version                     Architecture Description
+--------------------------------------------------------------------------------------
