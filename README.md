@@ -7,4 +7,4 @@ Debian - List of standard installed packages
 ### Debian Trixie 13
 - **Architecture** : amd64
 - **Image slim**: [debian:trixie-slim](https://github.com/debuerreotype/docker-debian-artifacts/blob/06a7b511b90f4cc6c8b41d2f01a57702556fe63e/trixie/slim/oci/index.json)
-- **Packages list** : [docker-debian-trixie-slim.txt](blob/main/debian/trixie/docker-debian-trixie-slim.txt)
+- **Packages list** : [docker-debian-trixie-slim.txt](debian/trixie/docker-debian-trixie-slim.txt)
