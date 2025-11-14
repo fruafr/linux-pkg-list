@@ -7,6 +7,7 @@ Linux distributions - List of default packages installed in their docker images
 
 ## RedHat Family
 - [almalinux](almalinux/almalinux.md): minimal and standard versions - 8,9,10
+- [rockylinux](rockylinux/rockylinux.md): minimal and standard versions - 8,9,10
 
 ## Others
 - [alpine](alpine/alpine.md): latest version: 3.22
