@@ -24,9 +24,9 @@ Debian family - List of standard packages installed
 ##### slim
 - **Architecture** : amd64
 - **Image slim**: [debian:bookworm-slim](https://github.com/debuerreotype/docker-debian-artifacts/blob/06a7b511b90f4cc6c8b41d2f01a57702556fe63e/bookworm/slim/oci/index.json)
-- **Packages list** : [docker-debian-bookworm-slim.txt](debian/12-bookworm/docker-debian-bookworm-slim.txt)
+- **Packages list** : [docker-debian-bookworm-slim.txt](debian/12/docker-debian-12-slim.txt)
 
 ##### trixie
 - **Architecture** : amd64
 - **Image slim**: [debian:bookworm](https://github.com/debuerreotype/docker-debian-artifacts/blob/06a7b511b90f4cc6c8b41d2f01a57702556fe63e/bookworm/oci/index.json)
-- **Packages list** : [docker-debian-bookworm.txt](debian/12-bookworm/docker-debian-bookworm.txt)
+- **Packages list** : [docker-debian-bookworm.txt](debian/12/docker-debian-12.txt)
