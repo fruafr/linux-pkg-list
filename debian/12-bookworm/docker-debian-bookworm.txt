@@ -1,0 +1,6 @@
+# Default package list for docker pull debian:bookworm
+# Date : 2025-11-14
+# Size : MiB
+
+Name                    Version                     Architecture Description
+--------------------------------------------------------------------------------------
