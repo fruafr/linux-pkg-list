@@ -1,4 +1,4 @@
-# Default package list for docker pull rockylinux:9
+# Default package list for docker pull rockylinux/rockylinux:9
 # Date: 2025-11-14
 # Size: 240.82 MiB
 # Artefacts json: https://hub.docker.com/layers/rockylinux/rockylinux/9/images/sha256-7620071ad66949c3aef9fd313151f0cfee46b75485990c3b03710624f5e1b7b3
