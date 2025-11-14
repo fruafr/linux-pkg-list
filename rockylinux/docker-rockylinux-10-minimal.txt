@@ -1,4 +1,4 @@
-# Default package list for docker pull rockylinux:10-minimal
+# Default package list for docker pull rockylinux/rockylinux:10-minimal
 # Date: 2025-11-14
 # Size: 128.66 MiB
 # Artefacts json: https://hub.docker.com/layers/rockylinux/rockylinux/10-minimal/images/sha256-0f2e13fbe1d37032e47986afd3795f3c57a7590e0874a978a653599cd9cfbc26
