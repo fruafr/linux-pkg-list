@@ -1,5 +1,6 @@
 # Default package list for docker pull debian:trixie
 # Date : 2025-11-14
+# Size : 
 
 Name                    Version                     Architecture Description
 --------------------------------------------------------------------------------------
