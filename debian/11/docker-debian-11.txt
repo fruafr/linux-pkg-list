@@ -1,7 +1,7 @@
 # Default package list for docker pull debian:11
 # Date : 2025-11-14
 # Size : 129.59 MiB
-# Artefacts json: https://github.com/debuerreotype/docker-debian-artifacts/blob/06a7b511b90f4cc6c8b41d2f01a57702556fe63e/bookworm/oci/index.json
+# Artefacts json: https://github.com/debuerreotype/docker-debian-artifacts/blob/06a7b511b90f4cc6c8b41d2f01a57702556fe63e/bullseye/oci/index.json
 
 Name                    Version                     Architecture Description
 --------------------------------------------------------------------------------------
