@@ -1,4 +1,4 @@
-# Default package list for docker pull debian:trixie-slim
+# Default package list for docker pull debian:13-slim
 # Date : 2025-11-14
 # Size : 81.05 MiB
 
