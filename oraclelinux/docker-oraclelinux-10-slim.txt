@@ -1,0 +1,4 @@
+# Default package list for docker pull oraclelinux:10-slim
+# Date: 2025-11-14
+# Size:  MiB
+# Artefacts json: 
