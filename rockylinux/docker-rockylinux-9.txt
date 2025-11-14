@@ -1,1 +1,4 @@
-
+# Default package list for docker pull rockylinux:9
+# Date: 2025-11-14
+# Size:  MiB
+# Artefacts json: 
