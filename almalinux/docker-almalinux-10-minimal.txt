@@ -1,5 +1,7 @@
-
-
+# Default package list for docker pull almalinux:10-minimal
+# Date: 2025-11-14
+# Size: 73.06 MiB
+# Artefacts json: https://github.com/AlmaLinux/container-images/blob/2f239bc800a366ea4dc42378905c237ae6e4e03a/minimal/amd64/Dockerfile
 
 gpg-pubkey-c2a1e572-668fe8ef
 libgcc-14.2.1-7.el10.alma.1.x86_64
