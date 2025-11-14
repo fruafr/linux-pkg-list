@@ -1,4 +1,4 @@
-# Default package list for docker pull debian:bookworm
+# Default package list for docker pull debian:12
 # Date : 2025-11-14
 # Size : 121.37 MiB
 
