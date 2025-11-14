@@ -26,3 +26,4 @@ Linux distributions - List of default packages installed in their Docker images
 ## Notes
 - Date : 2025-11-14
 - **For reference only. Will not be maintained.**
+- *MIT*
