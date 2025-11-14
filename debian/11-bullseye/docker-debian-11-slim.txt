@@ -1,0 +1,6 @@
+# Default package list for docker pull debian:11-slim
+# Date : 2025-11-14
+# Size : 84.23 MiB
+
+Name                    Version                     Architecture Description
+--------------------------------------------------------------------------------------
