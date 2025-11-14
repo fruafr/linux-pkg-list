@@ -11,7 +11,7 @@ Linux distributions - List of default packages installed in their docker images
 - [oraclelinux](oraclelinux/oraclelinux.md): slim and standard versions - 7 (2014), 8 (2019), 9 (2022), 10 (2025)
 
 ## Others
-- [alpine](alpine/alpine.md): latest version: 3.22
+- [alpine](alpine/alpine.md): latest version: 3.22 (2025)
 
 ## Notes
 - Date : 2025-11-14
