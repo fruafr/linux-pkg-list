@@ -1,5 +1,10 @@
 # linux-pkg-list
-Linux distributions - List of default packages installed in their docker images
+Linux distributions - List of default packages installed in their Docker images
+
+- **Best options for base Docker containers - minimal surface**:
+  - Alpine 3.22
+  - Debian family: Debian 13 slim
+  - RH family: Almalinux 10 slim      
 
 ## Debian family
 - [debian](debian/debian.md): minimal and standard stable versions - 11 (2021), 12 (2023), 13 (2025)
@@ -13,6 +18,10 @@ Linux distributions - List of default packages installed in their docker images
 
 ## Others
 - [alpine](alpine/alpine.md): latest version: 3.22 (2025)
+
+## Comparison
+- **History**: The size and number of packages installed is decreasing over time.
+- [2025-11]()
 
 ## Notes
 - Date : 2025-11-14
