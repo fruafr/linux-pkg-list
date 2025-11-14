@@ -1,0 +1,4 @@
+# Default package list for docker pull fedora:42
+# Date: 2025-11-14
+# Size:  MiB
+# Artefacts json: https://github.com/fedora-cloud/docker-brew-fedora/blob/b13b13dd4561da14a4de975c2ec754cb3fda5a27/x86_64/Dockerfile
