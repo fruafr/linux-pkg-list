@@ -1,7 +1,7 @@
 # Default package list for docker pull debian:11-slim
 # Date: 2025-11-14
 # Size: 84.23 MiB
-# Artefacts json: https://github.com/debuerreotype/docker-debian-artifacts/blob/06a7b511b90f4cc6c8b41d2f01a57702556fe63e/bookworm/slim/oci/index.json
+# Artefacts json: https://github.com/debuerreotype/docker-debian-artifacts/blob/06a7b511b90f4cc6c8b41d2f01a57702556fe63e/bullseye/slim/oci/index.json
 
 Name                    Version                     Architecture Description
 --------------------------------------------------------------------------------------
