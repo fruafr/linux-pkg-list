@@ -6,8 +6,8 @@ Linux distributions - List of default packages installed in their docker images
 - [ubuntu](ubuntu/ubuntu.md): supported LTS versions - 2204 (2022), 2404 (2024)
 
 ## RedHat Family
-- [almalinux](almalinux/almalinux.md): minimal and standard versions - 8,9,10
-- [rockylinux](rockylinux/rockylinux.md): minimal and standard versions - 8 () , 9, 10
+- [almalinux](almalinux/almalinux.md): minimal and standard versions - 8 (2021), 9 (2022), 10 (2025)
+- [rockylinux](rockylinux/rockylinux.md): minimal and standard versions - 8 (2021), 9 (2022), 10 (2025)
 - [oraclelinux](oraclelinux/oraclelinux.md): slim and standard versions - 7 (2014), 8 (2019), 9 (2022), 10 (2025)
 
 ## Others
