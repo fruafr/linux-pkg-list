@@ -47,7 +47,7 @@ Debian family - List of standard packages installed
 
 ### Ubuntu 24.04 - 2024
 - **Architecture** : amd64
-- **Image**: [ubuntu:24.04]([https://github.com/debuerreotype/docker-debian-artifacts/blob/06a7b511b90f4cc6c8b41d2f01a57702556fe63e/bullseye/oci/index.json](https://git.launchpad.net/cloud-images/+oci/ubuntu-base/tree/oci/index.json?h=refs/tags/dist-noble-amd64-20251013-6177ca63&id=6177ca63f5beee0b6d2993721a62850b9146e474))
+- **Image**: [ubuntu:24.04](https://git.launchpad.net/cloud-images/+oci/ubuntu-base/tree/oci/index.json?h=refs/tags/dist-noble-amd64-20251013-6177ca63&id=6177ca63f5beee0b6d2993721a62850b9146e474))
 - **Packages list** : [docker-ubuntu-2404.txt](ubuntu/2404/docker-ubuntu-2404.txt)
 
 
