@@ -1,5 +1,5 @@
-# linux-deb-dpkg-list
-Debian family - List of standard packages installed
+# linux-pkg-list
+Linux distributions - List of standard packages installed
 
 
 ## Docker
