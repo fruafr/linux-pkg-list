@@ -2,7 +2,7 @@
 Linux distributions - List of default packages installed in their docker images
 
 ## Debian family
-- [debian](debian/debian.md): minimal and standard stable versions - 11,12,13
+- [debian](debian/debian.md): minimal and standard stable versions - 11 (2021), 12 (2023), 13 (2025)
 - [ubuntu](ubuntu/ubuntu.md): supported LTS versions - 2204 (2022), 2404 (2024)
 
 ## RedHat Family
