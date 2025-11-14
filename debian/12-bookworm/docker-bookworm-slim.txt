@@ -1,0 +1,6 @@
+# Default package list for docker pull debian:bookworm-slim
+# Date : 2025-11-14
+# Size : 77.9 MiB
+
+Name                    Version                     Architecture Description
+--------------------------------------------------------------------------------------
