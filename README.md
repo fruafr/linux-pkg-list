@@ -2,9 +2,9 @@
 Linux distributions - List of default packages installed in their Docker images
 
 - **Best options for base Docker containers - minimal surface**:
-  - Alpine 3.22
-  - Debian family: Debian 13 slim
-  - RH family: Almalinux 10 slim      
+  - Alpine 3.22 (16 packages, 8.62 MiB)
+  - RH family: Almalinux 10 slim (74 packages, 73.06 MiB)
+  - Debian family: Debian 13 slim (77 packages, 81.05 MiB)
 
 ## Alpine
 - [alpine](alpine/alpine.md): latest version: 3.22 (2025)
