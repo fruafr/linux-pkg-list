@@ -44,6 +44,8 @@ Debian family - List of standard packages installed
 - **Packages list** : [docker-debian-11.txt](debian/docker-debian-11.txt)
 
 ### Ubuntu
+- List of packages obtained with : `dpkg --list`
+- [hub.docker.com : ubuntu](https://hub.docker.com/_/ubuntu)
 
 #### Ubuntu 24.04 - 2024
 - **Architecture** : amd64
@@ -52,7 +54,6 @@ Debian family - List of standard packages installed
 
 #### Ubuntu 22.04 - 2022
 - **Architecture** : amd64
-
-#### Ubuntu 20.04 - 2020
-- **Architecture** : amd64
+- **Image**: [ubuntu:22.04](https://git.launchpad.net/cloud-images/+oci/ubuntu-base/tree/oci/index.json?h=refs/tags/dist-jammy-amd64-20251013-b40e3010&id=b40e301002ccc279d4014443ac99c4a4bf12bc9e)
+- **Packages list** : [docker-ubuntu-2204.txt](ubuntu/docker-ubuntu-2204.txt)
 
